@@ -13,7 +13,7 @@ public class Fcatorial {
 
 
         int result = factorial(number);
-        System.out.println("Factorial of " + number + " (recursion): " + result);
+        System.out.println("Factorial of " + number + " (recursion): " + result + " I am new");
     }
 
     public static int factorial(int n) {
